@@ -1,0 +1,5 @@
+#PyCharm
+*.iml
+*.ipr
+*.iws
+.idea/
